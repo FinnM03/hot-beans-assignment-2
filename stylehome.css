@@ -61,7 +61,7 @@ ul {
     font-size: larger;
     margin-top: -22px;  
 }
-.topnav {
+.active {
     float: right;
     padding-right: 40px;
     padding-top: 14px;
