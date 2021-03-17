@@ -133,3 +133,85 @@ li a:hover {
 a:hover{
     font-size: 26px;
 }
+@media (max-width: 900px) {
+    .contentm{
+        float: left;
+        width: 35%;
+        height: 10%;
+    }
+}
+@media (max-width: 900px) {
+    .contentr{
+        float: left;
+        width: 35%;
+        height: 44.6%;
+    }
+}
+@media (max-width: 900px) {
+    .content1{
+        float: left;
+        width: 35%;
+        height: 42%;
+    }
+}
+@media (max-width: 900px) {
+    .imghotbeans{
+        width: 150px;
+    }
+}
+@media (max-width: 900px) {
+    .slogan{
+        font-size: large;
+    }
+}
+@media (max-width: 900px) {
+    .heading{
+        font-size: large;
+    }
+}
+@media (max-width: 900px) {
+    .maintext{
+        font-size: small;
+    }
+}
+@media (max-width: 900px) {
+    .imgfooter{
+        width: 70px;
+    }
+}
+@media (max-width: 900px) {
+    .footertext{
+        font-size: small;
+        float: right;
+    }
+}
+@media (max-width: 900px) {
+    .footertext1{
+        font-size: small;
+        float: right;
+        margin-top: -220px;
+    }
+}
+@media (max-width: 900px) {
+    .footertext2{
+        font-size: small;
+        float: right;
+        margin-top: -50px;
+    }
+}
+@media (max-width: 900px) {
+    .container{
+        height: 1800px;
+    }
+}
+@media (max-width: 900px) {
+    .header{
+        margin-left: -60px;
+        font-size: small;
+    }
+}
+@media (max-width: 900px) {
+    .topnav{
+        width: 274px;
+    }
+}
