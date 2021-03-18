@@ -165,7 +165,6 @@ li {
 }
 @media (max-width: 900px) {
     .hotbeanslogo{
-        display: block;
-        position: relative;
+        margin-top: 20px;
     }
 }
