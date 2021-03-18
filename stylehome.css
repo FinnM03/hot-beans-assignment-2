@@ -163,7 +163,8 @@ a:hover{
 }
 @media (max-width: 900px) {
     .slogan{
-        font-size: large;
+        font-size: x-large;
+        margin-top: 35px;
     }
 }
 @media (max-width: 900px) {
@@ -178,7 +179,7 @@ a:hover{
 }
 @media (max-width: 900px) {
     .imgfooter{
-        width: 100%;
+        width: 70px;
     }
 }
 @media (max-width: 900px) {
