@@ -173,3 +173,8 @@ li {
         display: inline;
     }
 }
+@media (max-width: 900px) {
+    .container{
+        height: 736px;
+    }
+}
