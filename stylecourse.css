@@ -163,3 +163,9 @@ li {
     width: 300px;
     margin-top: 70px; 
 }
+@media (max-width: 900px) {
+    .hotbeanslogo{
+        display: block;
+        position: relative;
+    }
+}
