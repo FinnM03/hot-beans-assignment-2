@@ -157,7 +157,11 @@ a:hover{
 @media (max-width: 900px) {
     .imghotbeans{
         width: 150px;
-        margin-top: 400px;
+        display: block;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 }
 @media (max-width: 900px) {
