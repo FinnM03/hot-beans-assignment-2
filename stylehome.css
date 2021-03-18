@@ -157,6 +157,7 @@ a:hover{
 @media (max-width: 900px) {
     .imghotbeans{
         width: 150px;
+        margin-top: 400px;
     }
 }
 @media (max-width: 900px) {
